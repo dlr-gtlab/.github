@@ -8,7 +8,8 @@ GTlab's uses a plugin system, the functionality of GTlab is defined and extended
 ![wall_2_0_2 (002)](https://github.com/dlr-gtlab/.github/assets/3213107/e6668213-1bcd-4960-85af-dd5f4cb825f5)
 
  - Core Framework: https://github.com/dlr-gtlab/gtlab-core
- - Documentation: https://gtlab.readthedocs.io
+ - User Documentation: https://gtlab.readthedocs.io/projects/user
+ - Developer Documentation: https://gtlab.readthedocs.io
 
 <!--
 
