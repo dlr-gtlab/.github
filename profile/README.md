@@ -1,4 +1,6 @@
-## GTlab
+# GTlab
+
+[![DOI](https://zenodo.org/badge/727352741.svg)](https://zenodo.org/doi/10.5281/zenodo.10666586)
 
 GTlab is an open and modular framework for collaborative engineering and design. It is developed by the [DLR Institute of Propulsion Technology](https://dlr.de/at) and is currently used to design and simulate propulsion systems and individual components across various levels of detail throughout the entire lifecycle.
 
@@ -6,13 +8,41 @@ GTlab combines data modeling, workflow automation, scripting, and extensibility 
 
 ![GTlab screenshot](https://github.com/dlr-gtlab/.github/assets/3213107/e6668213-1bcd-4960-85af-dd5f4cb825f5)
 
+## Why GTlab
+
+GTlab is designed as a reusable research software platform rather than a one-off application for a single method or project. It helps teams bring together data models, engineering methods, automation, and domain knowledge in one shared environment, making complex workflows more transparent, reproducible, and easier to extend over time.
+
+Its open and modular architecture supports sustainable software development in research: core capabilities can be combined with domain-specific modules, while common foundations for data handling, process management, and user interaction remain reusable across projects and teams.
+
+## Key Strengths
+
+- Modular plugin architecture for domain-specific extensions
+- Support for collaborative and interdisciplinary engineering workflows
+- Integrated data modeling, workflow automation, and scripting
+- Open-source core framework with public documentation and downloads
+- Designed for reuse, sustainability, and long-term extensibility in research software
+
+## Impact
+
+GTlab has grown from a research-driven software framework into a shared platform with practical relevance in day-to-day engineering work. It is used across multiple DLR institutes and supports collaboration between research, academia, and industrial application contexts.
+
+## Sustainability
+
+GTlab is developed with long-term sustainability in mind. Its open-source core is complemented by public documentation, versioned releases, transparent licensing, issue tracking, code review, installer-based deployment, and automated quality assurance through unit, GUI, and regression testing.
+
 ## Get Started
 
 - Website: https://gtlab.de
-- Download GTlab: https://www.gtlab.de/pages/download.html
 - User Documentation: https://gtlab.readthedocs.io/projects/user
 - Developer Documentation: https://gtlab.readthedocs.io/en/latest/
-- Core Framework Repository: https://github.com/dlr-gtlab/gtlab-core
+
+## Ecosystem
+
+- [gtlab-core](https://github.com/dlr-gtlab/gtlab-core): core framework for collaborative engineering workflows
+- [python-module](https://github.com/dlr-gtlab/python-module): Python integration for scripting and automation
+- [intelligraph-module](https://github.com/dlr-gtlab/intelligraph-module): graph-based workflow capabilities
+- [genh5](https://github.com/dlr-gtlab/genh5): reusable C++ wrapper for HDF5-based data handling
+- [gt-logging](https://github.com/dlr-gtlab/gt-logging): shared logging library used across the GTlab ecosystem
 
 ## Installation
 
@@ -30,6 +60,11 @@ GTlab is supported on Windows and Linux. macOS should theoretically work, but is
 - Features: https://www.gtlab.de/pages/features.html
 - Screenshots: https://www.gtlab.de/pages/screenshots.html
 - News: https://www.gtlab.de/#news
+
+## Research & Citation
+
+- Helmholtz Software Directory: https://helmholtz.software/software/gtlab
+- Software DOI: https://zenodo.org/doi/10.5281/zenodo.10666586
 
 ## Community
 
