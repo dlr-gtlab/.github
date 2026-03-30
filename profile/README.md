@@ -7,9 +7,21 @@ GTlab's uses a plugin system, the functionality of GTlab is defined and extended
 
 ![wall_2_0_2 (002)](https://github.com/dlr-gtlab/.github/assets/3213107/e6668213-1bcd-4960-85af-dd5f4cb825f5)
 
- - Core Framework: https://github.com/dlr-gtlab/gtlab-core
+ - Website: https://gtlab.de
+ - Core Framework Code: https://github.com/dlr-gtlab/gtlab-core
  - User Documentation: https://gtlab.readthedocs.io/projects/user
  - Developer Documentation: https://gtlab.readthedocs.io
+
+## Installation
+
+For normal use, we recommend installing GTlab via the official GTlab Community Installer.
+
+- Download GTlab for Windows or Linux from the [official download page](https://www.gtlab.de/pages/download.html).
+- The Community Installer installs GTlab together with the available modules and can also be used to update GTlab.
+- For DLR internal users, an internal installer with additional modules is also available through internal DLR distribution channels.
+- Building from source is mainly intended for developers and contributors; see [Building GTlab](#building-gtlab).
+
+GTlab is supported on Windows and Linux. macOS should theoretically work, but is currently not officially tested.
 
 <!--
 
